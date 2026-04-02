@@ -2,7 +2,9 @@
 
 **A fast, lightweight & beautiful multi-console emulator for Android**
 
-![ReBit Banner](https://github.com/Alien989/ReBit/raw/main/logo.png)
+<p align="center">
+  <img src="https://github.com/Alien989/ReBit/raw/main/logo.png" width="100" alt="ReBit Logo">
+</p>
 
 ## About ReBit
 
@@ -29,14 +31,15 @@ ReBit currently supports the following systems:
 - Atari 2600  
 - Atari 7800  
 - Atari Lynx  
-- Neo Geo / Arcade
-- Neo Geo CD
-- Neo Geo Pocket
-- Others
+- Neo Geo / Arcade  
+- Neo Geo CD  
+- Neo Geo Pocket  
+- Others  
 
 ### ⚡ Performance & Optimization
 - Advanced performance optimizations for low-end and mid-range devices  
 - Improved battery efficiency and thermal management  
+
 More consoles and optimizations are actively in development. Your feedback helps decide what comes next!
 
 ## Screenshots
@@ -52,7 +55,7 @@ More consoles and optimizations are actively in development. Your feedback helps
 
 - 🔍 Automatic ROM scanning and library organization  
 - ⭐ Built-in game rating system  
-- 🎮 Controller support
+- 🎮 Controller support  
 - 💾 Save states and load functionality  
 - ⚡ Optimized performance for Android devices  
 - 📂 All-in-one multi-console support  
@@ -66,7 +69,7 @@ More consoles and optimizations are actively in development. Your feedback helps
 4. Add your legally obtained ROM files.
 5. Enjoy your favorite classic games!
 
-**Supported file formats:** `.nes`, `.smc`, `.sfc`, `.gb`, `.gbc`, `.gba`, `.gen`, `.md`, `.gg`, `.sms`, `.zip` and others.
+**Supported file formats:** `.nes`, `.snes`, `.gb`, `.gbc`, `.gba`, `.gen`, `.md`, `.gg`, `.sms` and others.
 
 ## Disclaimer
 
@@ -78,7 +81,3 @@ This application is an emulator only. You are responsible for providing your own
 
 If you like **ReBit**, please give this repository a ⭐ on GitHub!  
 Your support helps the project grow and motivates new features.
-
----
-
-**Made with ❤️ in Georgia**
