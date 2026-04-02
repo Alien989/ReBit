@@ -2,8 +2,8 @@
 
 **A fast, lightweight & beautiful multi-console emulator for Android**
 
-<p align="center">
-  <img src="https://github.com/Alien989/ReBit/raw/main/logo.png" width="100" alt="ReBit Logo">
+<p align="left">
+  <img src="https://github.com/Alien989/ReBit/raw/main/logo.png" width="100">
 </p>
 
 ## About ReBit
