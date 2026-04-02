@@ -57,7 +57,19 @@ More consoles and optimizations are actively in development. Your feedback helps
 - 💾 Save states and load functionality  
 - ⚡ Optimized performance for Android devices  
 - 📂 All-in-one multi-console support  
-- 🎨 Clean and modern UI design  
+- 🎨 Clean and modern UI design
+
+## ScaleFX (HD Enhancement)
+
+ReBit includes **ScaleFX**, an advanced feature that allows you to play classic games in high definition. ScaleFX enhances pixel art, giving old games a sharper and cleaner look on modern screens.
+
+<div align="center">
+  <h4>ScaleFX ON</h4>
+  <img src="https://github.com/Alien989/ReBit/raw/main/screenshots/onscalefx.jpg" width="280">
+  
+  <h4>ScaleFX OFF</h4>
+  <img src="https://github.com/Alien989/ReBit/raw/main/screenshots/offscalefx.jpg" width="280">
+</div>
 
 ## Installation
 
