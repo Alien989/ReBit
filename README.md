@@ -45,10 +45,8 @@ More consoles and optimizations are actively in development. Your feedback helps
 ## Screenshots
 
 <div align="center">
-  <img src="https://github.com/Alien989/ReBit/raw/main/screenshots/1.png" width="280">
-  <img src="https://github.com/Alien989/ReBit/raw/main/screenshots/2.png" width="280">
-  <img src="https://github.com/Alien989/ReBit/raw/main/screenshots/3.png" width="280">
-  <img src="https://github.com/Alien989/ReBit/raw/main/screenshots/4.png" width="280">
+  <img src="https://github.com/Alien989/ReBit/raw/main/screenshots/1.jpg" width="280">
+  <img src="https://github.com/Alien989/ReBit/raw/main/screenshots/2.jpg" width="280">
 </div>
 
 ## Features
