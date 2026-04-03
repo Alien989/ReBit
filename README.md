@@ -6,6 +6,11 @@
   <img src="https://github.com/Alien989/ReBit/raw/main/logo.png" width="100">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/platform-Android%20">
+  <img src="https://img.shields.io/badge/type-2D%20Emulator-orange">
+  <img src="https://img.shields.io/badge/license-MIT-green">
+</p>
 ## About ReBit
 
 ReBit is a modern multi-console emulator for Android that lets you play classic retro games in one elegant and easy-to-use application.
