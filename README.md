@@ -6,7 +6,7 @@
   <img src="https://github.com/Alien989/ReBit/raw/main/logo.png" width="100">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/platform-Android%20-blue">
   <img src="https://img.shields.io/badge/type-Emulator-orange">
   <img src="https://img.shields.io/badge/license-MIT-green">
