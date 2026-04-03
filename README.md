@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/platform-Android%20 |">
+  <img src="https://img.shields.io/badge/platform-Android%20-blue">
   <img src="https://img.shields.io/badge/type-Emulator-orange">
   <img src="https://img.shields.io/badge/license-MIT-green">
 </p>
