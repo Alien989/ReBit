@@ -29,13 +29,13 @@ ReBit currently supports the following systems:
 - **GBA** — Game Boy Advance  
 - **Genesis / Mega Drive** (MD)  
 - **Game Gear** (GG)  
-- **Master System** (SMS)  
+- **Master System** (SMS)
+- **Atari 2600**  
+- **Atari 7800**  
 
 ## Roadmap
 
-### 🚀 Future Console Support
-- Atari 2600  
-- Atari 7800  
+### 🚀 Future Console Support  
 - Atari Lynx  
 - Neo Geo / Arcade  
 - Neo Geo CD  
